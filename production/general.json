@@ -1,0 +1,9 @@
+{
+  "web": {
+    "explorer": {
+      "enabled": true
+    }
+  },
+  "mobile": {},
+  "backend": {}
+}
